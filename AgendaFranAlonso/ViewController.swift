@@ -13,7 +13,10 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        //  hmgfmgvhghn
+        //  date
+        
+        let today = NSDate()
+        print(today)
         
         
     }
